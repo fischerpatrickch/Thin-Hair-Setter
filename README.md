@@ -1,0 +1,1 @@
+Micro Hair Setter automates detailed microtypographic adjustments in InDesign — spacing, punctuation, numerals and more. Built by Patrick Fischer at IDCE, HGK Basel FHNW, as part of the Generative Toolmaking module under the supervision of Ted Davis. Visit my website: fischerpatrick.ch

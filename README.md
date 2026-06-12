@@ -1,7 +1,7 @@
 In order to use Thin Hair Setter please download thinhairsetter.jsx and save it in inDesign under
   Window → Utilities → Scripts in "User"
 
-Also download the file basil.js folder https://basiljs2.netlify.app/download/ and save it in "Documents".
+Also download the latest basil.js folder (https://basiljs2.netlify.app/download/) and save it in "Documents".
 
 For best results, run Thin Hair Setter before applying local character formatting (e.g. bold, italic, size changes).
 
